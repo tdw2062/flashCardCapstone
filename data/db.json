@@ -1,0 +1,188 @@
+{
+  "decks": [
+    {
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. ",
+      "id": 1
+    },
+    {
+      "name": "React Router Deck",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application.",
+      "id": 2
+    },
+    {
+      "name": "Brand New Deck",
+      "description": "This is a brand new deck",
+      "id": 3
+    },
+    {
+      "name": "Best Deck 2",
+      "description": "This is the best Deck",
+      "id": 4
+    }
+  ],
+  "cards": [
+    {
+      "front": "Does this change it? A little. ",
+      "back": "We shall see. ",
+      "deckId": "1",
+      "id": 1
+    },
+    {
+      "front": "How do you modify the state of a different React component?",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": "1",
+      "id": 2
+    },
+    {
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1,
+      "id": 3
+    },
+    {
+      "front": "What path will match the follow Route?\n<Route>\n  <NotFound />\n</Route>",
+      "back": "All paths. A route with no path matches all URL's.",
+      "deckId": 2,
+      "id": 4
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": "2",
+      "id": 5
+    },
+    {
+      "front": "This has been modified to have a deckId. ",
+      "back": "We want all to have a deckId. 4 Sure",
+      "deckId": "1",
+      "id": 10
+    },
+    {
+      "front": "This is a new card. It will be gone. ",
+      "back": "Check out this brand new card!",
+      "deckId": "1",
+      "id": 11
+    },
+    {
+      "front": "Trying to add a new card. ",
+      "back": "Seeing how it shows up. Houston, we have a problem. ",
+      "deckId": "1",
+      "id": 12
+    },
+    {
+      "front": "This is my fight song! Nice",
+      "back": "Rendering in React",
+      "deckId": "1",
+      "id": 15
+    },
+    {
+      "front": "How often should you study? ",
+      "back": "Always! and a day",
+      "deckId": "1",
+      "id": 16
+    },
+    {
+      "front": "This is an additional card. ",
+      "back": "Here is an additional card. ",
+      "deckId": 2,
+      "id": 18
+    },
+    {
+      "front": "",
+      "back": "",
+      "deckId": 2,
+      "id": 19
+    },
+    {
+      "front": "This is card 1 21",
+      "back": "This is card 1 21",
+      "deckId": 1,
+      "id": 20
+    },
+    {
+      "front": "This is card 2 Front",
+      "back": "This is card 2 Back",
+      "deckId": "1",
+      "id": 21
+    },
+    {
+      "front": "This is front butterfly",
+      "back": "This is back butterfly",
+      "deckId": 1,
+      "id": 22
+    },
+    {
+      "front": "This is front 2 Gone",
+      "back": "This is back 2 Gone",
+      "deckId": "1",
+      "id": 23
+    },
+    {
+      "front": "Hello? Wow",
+      "back": "Todd No way",
+      "deckId": "1",
+      "id": 24
+    },
+    {
+      "front": "How do you like React? Make New ",
+      "back": "It is fine. Make New",
+      "deckId": 1,
+      "id": 25
+    },
+    {
+      "front": "This is a new Card - Gone",
+      "back": "Seriously - Gone",
+      "deckId": "1",
+      "id": 26
+    },
+    {
+      "front": "Example Front - Make Edit",
+      "back": "Example Back - Make Edit",
+      "deckId": "1",
+      "id": 27
+    },
+    {
+      "front": "Front of the Card Back",
+      "back": "Back of the Card Back",
+      "deckId": "1",
+      "id": 28
+    },
+    {
+      "front": "Card 1 - Front",
+      "back": "Card 1 - Back",
+      "deckId": 3,
+      "id": 29
+    },
+    {
+      "front": "Card 2 - Front",
+      "back": "Card 2 - Back",
+      "deckId": 3,
+      "id": 30
+    },
+    {
+      "front": "Card 3 - Front",
+      "back": "Card 3 - Back",
+      "deckId": 3,
+      "id": 31
+    },
+    {
+      "front": "Best Deck Front 1",
+      "back": "Best Deck Back 1",
+      "deckId": 4,
+      "id": 32
+    },
+    {
+      "front": "Best Deck Front 2",
+      "back": "Best Deck Back 2",
+      "deckId": 4,
+      "id": 33
+    },
+    {
+      "front": "Best Deck Front 3",
+      "back": "Best Deck Back 3",
+      "deckId": 4,
+      "id": 34
+    }
+  ]
+}
