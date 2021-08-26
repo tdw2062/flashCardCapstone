@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Route, Switch } from "react-router-dom";
-import Layout from "./Layout";
+import Routes from "./Layout/Routes";
 import { readDeck, listDecks } from "./utils/api/index.js";
 
 /**
@@ -44,7 +44,7 @@ function App() {
       <div className="app-routes">
         <Switch>
           <Route path="/">
-            <Layout decks={deckList} />
+            <Routes decks={deckList} />
           </Route>
         </Switch>
       </div>

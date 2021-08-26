@@ -45,7 +45,7 @@ export const Study = () => {
       document.title = "";
       abortController.abort();
     };
-  }, []);
+  }, [deckId]);
 
   //If there are less than 3 cards, return 'not enough cards' (NotEnoughCards component)
   if (length < 3) {
