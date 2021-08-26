@@ -28,7 +28,7 @@ export const EditCard = ({}) => {
       setName(response.name);
     }
     getDeck(deckId);
-  }, [deckId]);
+  }, [deckId, cardId]);
 
   //Create handleSubmit function to update the card based on the front band back given in the form
   //This function will capture the values entered and run the updateCard() api call
