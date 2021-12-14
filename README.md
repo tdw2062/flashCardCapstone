@@ -2,6 +2,14 @@
 
 Flashcard app is an app for users to study for an given subject. The user can upload a deck of flashcards. They can manage the deck by adding, deleting, or editing cards. They can then study by viewing the flashcards and flipping them from front to back to display the answers.
 
+## Technology
+
+Built with:
+
+- React with React Router and React Hooks
+- Bootstrap 4
+- JSON-Server to Handle API Calls
+
 ## Screenshots
 
 ### Home Page
